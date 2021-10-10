@@ -1,0 +1,16 @@
+{
+  "name": "base01",
+  "version": "0.0.1",
+  "description": "Es una Tabla de multiplicar con archivos \b\b de texto",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Gabriel",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.2.1"
+  },
+  "devDependencies": {}
+}
